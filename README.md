@@ -6,8 +6,7 @@ Welcome to the Azure AI-900 study materials repository! This collection includes
 ## 🎯 What's Included
 - 197 detailed slides covering all exam topics
 - Latest content including Generative AI
-- Real-world examples and explanations
-- Exam-focused content aligned with Microsoft's objectives
+- Exam-focused content aligned with Microsoft's AI 900 objectives
 
 ## 📋 Topics Covered
 - Introduction to Artificial Intelligence
@@ -19,7 +18,7 @@ Welcome to the Azure AI-900 study materials repository! This collection includes
 - Azure AI Services
 - Responsible AI Principles
 - Azure Cognitive Services
-- Azure Machine Learning Studio
+- Azure AI Foundry
 
 ## 🚀 Getting Started
 1. Download the slides from the repository
